@@ -1,0 +1,7 @@
+-*-   Ya 1.0   *   (c) Gazlan, 2009   -*-
+
+For Yandex mail filename transliterator
+
+Usage: ya.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
